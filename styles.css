@@ -1,0 +1,17 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: rgb(137, 218, 245);
+    
+}
+
+#weather{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    color: rgb(243, 241, 241);
+}
